@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kafiyyah Arts Fest 2025</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="Kafiyyah Logo" class="logo">
+    <h1>Kafiyyah Arts Fest 2025</h1>
+    <p class="tagline">കലഹം കാലുഷ്യങ്ങളോട്</p>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#schedule">Schedule</a></li>
+        <li><a href="#results">Results</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#downloads">Downloads</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#others">Others</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>Welcome to Kafiyyah Arts Fest 2025</h2>
+    <p>Experience creativity, talent, and culture at our annual college festival!</p>
+  </section>
+
+  <section id="schedule">
+    <h2>Schedule</h2>
+    <ul>
+      <li>10:00 AM - Opening Ceremony</li>
+      <li>11:00 AM - Music Performance</li>
+      <li>1:00 PM - Lunch Break</li>
+      <li>2:00 PM - Workshops</li>
+      <li>5:00 PM - Prize Distribution</li>
+    </ul>
+  </section>
+
+  <section id="results">
+    <h2>Results</h2>
+    <p>Check out the winners and scores of all competitions here!</p>
+  </section>
+
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <div class="gallery-grid">
+      <img src="assets/images/gallery1.jpg" alt="Gallery Image 1">
+      <img src="assets/images/gallery2.jpg" alt="Gallery Image 2">
+    </div>
+  </section>
+
+  <section id="downloads">
+    <h2>Downloads</h2>
+    <p>Get schedules, brochures, and more here.</p>
+  </section>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>Organized by <strong>Trippanachi Usthad Memorial Islamic College</strong>, Kafiyyah Arts Fest celebrates art, talent, and creativity among students. Join us for a day full of performances, workshops, and competitions.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:jalwaunion@gmail.com">jalwaunion@gmail.com</a></p>
+    <p>Phone: <a href="tel:+916238015233">6238015233</a></p>
+    <p>Address: TUMIC Campus, Trippanachi, Palakkad</p>
+  </section>
+
+  <section id="others">
+    <h2>Others</h2>
+    <p>If you have any other queries or activities, please mention them here.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Trippanachi Usthad Memorial Islamic College</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
